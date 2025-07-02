@@ -20,3 +20,15 @@ Each model was evaluated using accuracy, precision, recall,
 F1-score, and confusion matrix. Hyperparameter tuning was
 also conducted for selected models to optimize performance.
 The findings of this project can support informed decisionmaking in financial, social, and governmental domains.
+
+#Screenshots of output
+![Screenshot (1)](https://github.com/user-attachments/assets/9983d759-9884-48cc-a7bd-e0afe3519bae)
+![Screenshot (2)](https://github.com/user-attachments/assets/d107652a-912e-4f15-b1cd-4e7ec7cf7169)
+![Screenshot (3)](https://github.com/user-attachments/assets/9ce48edc-8941-4e72-bb49-afda5a597640)
+![Screenshot (4)](https://github.com/user-attachments/assets/bd6ec8ad-0764-4537-a487-f43aea6fa55e)
+
+
+
+
+
+
